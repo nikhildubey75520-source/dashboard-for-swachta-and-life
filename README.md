@@ -1,1 +1,0 @@
-# dashboard-for-swachta-and-life
